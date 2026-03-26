@@ -47,7 +47,3 @@ Inverting amplifier:
 
 
 
-
-
-## RESULT:
-![IMG_20251203_135503 1](https://github.com/user-attachments/assets/1d70cb18-1f18-418b-92fe-d164613b9e0c)
